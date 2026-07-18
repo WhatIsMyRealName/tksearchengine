@@ -1,2 +1,5 @@
 __pycache__/
 .agents/
+
+dist/
+*.egg-info
