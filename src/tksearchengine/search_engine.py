@@ -12,7 +12,7 @@ SearchCallback: TypeAlias = Callable[[str, str | None], None]
 SearchFunction: TypeAlias = Callable[[Sequence[str], str], Sequence[str]]
 MaxDistanceFunction: TypeAlias = Callable[[int], int]
 
-__version__ = "1.0.1"
+__version__ = "1.0.2"
 __author__ = "WhatIsMyRealName"
 __created_with__ = "Codex"
 __created_on__ = "2026-07-17"
