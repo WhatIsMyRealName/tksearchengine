@@ -1,4 +1,9 @@
-﻿# tksearchengine
+# tksearchengine
+
+[![PyPI version](https://img.shields.io/pypi/v/tksearchengine.svg)](https://pypi.org/project/tksearchengine/)
+[![Python versions](https://img.shields.io/pypi/pyversions/tksearchengine.svg)](https://pypi.org/project/tksearchengine/)
+[![License](https://img.shields.io/pypi/l/tksearchengine.svg)](https://pypi.org/project/tksearchengine/)
+[![Tests](https://github.com/WhatIsMyRealName/tksearchengine/actions/workflows/tests.yml/badge.svg)](https://github.com/WhatIsMyRealName/tksearchengine/actions/workflows/tests.yml)
 
 `tksearchengine` provides a reusable Tkinter search field with fuzzy,
 multi-word suggestions. It combines an entry, a search button, and a listbox

@@ -9,8 +9,10 @@ description = "A reusable Tkinter search widget with fuzzy multi-word matching"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [{ name = "WhatIsMyRealName" }]
+license = { file = "LICENSE" }
 classifiers = [
     "Development Status :: 3 - Alpha",
+    "License :: OSI Approved :: MIT License",
     "Environment :: X11 Applications",
     "Intended Audience :: Developers",
     "Operating System :: OS Independent",
